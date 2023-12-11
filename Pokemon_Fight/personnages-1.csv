@@ -1,0 +1,22 @@
+Nom;Numero;Type 1;Type 2;PV;Attaque;Defense;Attaque Special;Vitesse;Evolution;Description;Nom_fichier_image
+Victini;494;Psy;Feu;100;100;100;100;100;;L'énergie sans limites qu'il produit donne une force incroyable à ceux qui entrent en contact avec elle.;Victini.png
+Vipelierre;495;Plante;;45;45;55;45;63;Lianaja;Il laisse sa queue prendre le soleil pour sa photosynthèse. Quand il est malade, sa queue pend tristement.;Vipelierre.png
+Lianaja;496;Plante;;60;60;75;60;83;Majaspic;La saleté l'empêchant d'utiliser la photosynthèse, il prend grand soin d'être toujours propre.;Lianaja.png
+Majaspic;497;Plante;;75;75;95;75;113;;Il peut paralyser l'ennemi d'un regard. Il amplifie l'énergie du soleil dans son corps.;Majaspic.png
+Gruikui;498;Feu;;65;63;45;45;45;Grotichon;Il adore se goinfrer de Baies grillées, mais il lui arrive de les réduire en cendres dans son excitation.;Gruikui.png
+Grotichon;499;Feu;Combat;90;93;55;70;55;Roitiflam;Quand le feu dans son corps s'embrase, sa vitesse et son agilité augmentent. En cas d'urgence, il crache de la fumée.;Grotichon.png
+Roitiflam;500;Feu;Combat;110;123;65;100;65;;Il a une barbe enflammée. Il maîtrise des techniques de combat au corps à corps rapides et puissantes.;Roitiflam.png
+Moustillon;501;Eau;;55;55;45;63;45;Mateloutre;Il combat avec le coupillage de son ventre. Il peut parer un assaut et immédiatement contre-attaquer.;Moustillon.png
+Mateloutre;502;Eau;;75;75;60;83;60;Clamiral;Chaque Mateloutre a sa propre technique d'escrime au coupillage, acquise grâce à un entraînement drastique.;Mateloutre.png
+Clamiral;503;Eau;;95;100;85;108;70;;Il peut terrasser ses ennemis d'un coup de la lame enchâssée dans son armure, et les faire taire d'un seul regard.;Clamiral.png
+Ratentif;504;Normal;;45;55;39;35;42;Miradar;Très prudent, il surveille attentivement son territoire, mais oublie souvent de regarder derrière lui.;Ratentif.png
+Miradar;505;Normal;;60;85;69;60;77;;Il attaque en crachant les graines des Baies qu'il accumule dans ses bajoues. S'il voit un ennemi, il dresse la queue.;Miradar.png
+Ponchiot;506;Normal;;45;60;45;25;55;Ponchien;Bien que vaillant, il a aussi l'intelligence d'analyser toutes les situations et de fuir quand il anticipe une défaite.;Ponchiot.png
+Ponchien;507;Normal;;65;80;65;35;60;Mastouffe;Les poils qui entourent son corps comme un manteau sont extrêmement durs et amortissent les coups.;Ponchien.png
+Mastouffe;508;Normal;;85;110;90;45;80;;Sa soyeuse fourrure à poils longs est assez chaude pour supporter de longues nuits d'hiver en montagne.;Mastouffe.png
+Chacripan;509;Ténèbre;;41;50;37;50;66;Léopardus;Il vole les gens pour le plaisir, mais il est tellement mignon que ses victimes finissent toujours par lui pardonner.;Chacripan.png
+Léopardus;510;Ténèbre;;64;88;50;88;106;;Il s'approche sans un bruit de sa proie et l'abat d'un coup par-derrière sans jamais être repéré.;Léopardus.png
+Feuillajou;511;Plante;;50;53;48;53;64;Feuiloutan;Il est très doué pour trouver des Baies et aime les partager avec ses amis sans rien demander en échange.;Feuillajou.png
+Feuiloutan;512;Plante;;75;98;63;98;101;;Il a un tempérament violent et se bat avec sa queue pleine d'épines. La feuille sur sa tête est très amère.;Feuiloutan.png
+Flamajou;513;Feu;;50;53;48;53;64;Flamoutan;Il vit dans les cratères des volcans. L'intérieur de la mèche qu'il a sur la tête peut atteindre 300°C.;Flamajou.png
+Flamoutan;514;Feu;;75;98;63;98;101;;Quand il est excité, des flammèches brûlantes dansent sur sa tête et sa queue. Il raffole des choses sucrées.;Flamoutan.png
