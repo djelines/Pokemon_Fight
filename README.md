@@ -1,5 +1,4 @@
-# FR
-# Pokemon Fight - Jeu en Python avec Pygame
+# 👾 Pokemon Fight - Jeu en Python avec Pygame
 
 ## Description
 Pokemon Fight est un jeu simple développé en Python à l'aide de la bibliothèque Pygame. 
@@ -17,7 +16,6 @@ L'objectif du jeu est de former deux équipes de 3 pokémons chacune et de les f
 - Suivez les instructions à l'écran pour interagir.
 
 # EN
-# Pokemon Fight - Python Game with Pygame
 
 ## Description
 Pokemon Fight is a simple game developed in Python using the Pygame library.
